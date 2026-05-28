@@ -40,8 +40,6 @@ https://mr-utkarsh-git.github.io/landing-page/
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 ```text
 landing-page/
 │
@@ -64,9 +62,6 @@ This project was created as part of the **CodSoft Web Development Internship** t
 
 ---
 
-## 📸 Preview
-
-<img width="100%" alt="ANTIGRAVITY Landing Page Preview" src="https://via.placeholder.com/1200x600.png?text=ANTIGRAVITY+Landing+Page">
 
 ---
 
